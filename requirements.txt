@@ -3,5 +3,3 @@ numpy
 cvzone
 datetime
 flask
-opencv-python-headless
-numpy
